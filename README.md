@@ -14,7 +14,7 @@ This project demonstrates how to integrate a modern AI model into a React app to
 ---
 
 ## Tech Stack
-- **ReactJS** (Frontend framework)  
+- **ReactJS** (Frontend framework)
 - **Gemini API** (LLM backend for chatbot responses)  
 - **Fetch API / Axios** (to send requests)  
 
