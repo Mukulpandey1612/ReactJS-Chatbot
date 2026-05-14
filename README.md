@@ -23,7 +23,7 @@ This project demonstrates how to integrate a modern AI model into a React app to
 ### Install Dependencies and run
 ```bash
 npm install
-npm start
+npm run dev
 ```
 
 ## License
